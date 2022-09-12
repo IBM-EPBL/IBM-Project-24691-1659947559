@@ -6,11 +6,8 @@
 ## 🔗 Links
 
 
-[Tasks](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/tasks)
+[Tasks](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Tasks)
 
-[Assignments](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/assignments)
-
-[Project Code](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/smart-fashion)
 
 ## Batch
 
