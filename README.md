@@ -1,4 +1,5 @@
 # IBM-Project-24691-1659947559
+<b><i> Smart Fashion Recommender Application <i></b>
 Smart Fashion Recommender Application to recommend products based on user preferences.
 
 ## 🔗 Links
@@ -21,19 +22,3 @@ B8-2A4E
 Nivetha K
 
 Vimala P
-
-## Uploading Task
-
-To upload your task
-
-<b><i>tasks > {Your Name} > {task file}</i></b>
-
-Task name format: taskNo taskName (Task No and name available in project schedule)
-
-Example: 2.1 Literature Survey
-
-## Uploading Assignment
-
-To upload your task
-
-<b><i>assignments > {Your Name} > {assignment file}<i></b>
