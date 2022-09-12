@@ -16,9 +16,9 @@ B8-2A4E
 
 Team Members
 
-Nandhitha Sree B (https://github.com/Nandhitha-Sree-B)
+[Nandhitha Sree B](https://github.com/Nandhitha-Sree-B)
 
-Jose Louie Shereen K (https://github.com/ShereenAlby)
+[Jose Louie Shereen K](https://github.com/ShereenAlby)
 
 Nivetha K
 
