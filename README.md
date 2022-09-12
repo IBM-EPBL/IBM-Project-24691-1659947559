@@ -14,8 +14,6 @@ Smart Fashion Recommender Application to recommend products based on user prefer
 
 B8-2A4E
 
-Team Members
-
 [Nandhitha Sree B](https://github.com/Nandhitha-Sree-B)
 
 [Jose Louie Shereen K](https://github.com/ShereenAlby)
