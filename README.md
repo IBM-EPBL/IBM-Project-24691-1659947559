@@ -1,5 +1,6 @@
 # IBM-Project-24691-1659947559
 <b><i> Smart Fashion Recommender Application <i></b>
+  
 Smart Fashion Recommender Application to recommend products based on user preferences.
 
 ## 🔗 Links
