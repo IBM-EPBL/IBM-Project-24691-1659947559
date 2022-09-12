@@ -4,6 +4,9 @@ Smart Fashion Recommender Application
 Team Members
 
 Nandhitha Sree B
+
 Jose Louie Shereen K
+
 Nivetha K
+
 Vimala P
