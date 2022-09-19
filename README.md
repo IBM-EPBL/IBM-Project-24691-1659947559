@@ -5,6 +5,8 @@
 
 ## 🔗 Links
 
+[Assignments](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Assignments)
+
 [Phases](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Phases)
 
 [Tasks](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Tasks)
