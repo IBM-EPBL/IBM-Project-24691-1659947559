@@ -12,9 +12,7 @@
 [Tasks](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Tasks)
 
 
-## Batch
-
-B8-2A4E
+## Batch - B8-2A4E
 
 [Nandhitha Sree B](https://github.com/Nandhitha-Sree-B)
 
