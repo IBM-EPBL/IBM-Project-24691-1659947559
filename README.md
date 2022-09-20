@@ -20,6 +20,6 @@ B8-2A4E
 
 [Jose Louie Shereen K](https://github.com/ShereenAlby)
 
-Nivetha K
+[Nivetha K](https://github.com/Nivekumar01)
 
-Vimala P
+[Vimala P](https://github.com/Vimala18)
