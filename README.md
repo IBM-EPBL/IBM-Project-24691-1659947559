@@ -5,7 +5,7 @@
 
 ## 🔗 Links
 
-[Assessments](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Assessments)
+[Assignments](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Assignments)
 
 [Pre-Development Phase](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Pre-Development%20Phase)
 
