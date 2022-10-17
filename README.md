@@ -7,11 +7,11 @@
 
 [Assignments](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Assignments)
 
-[Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Pre-Development%20Phase)
+[Project Design & Planning](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Project%20Design%20%26%20Planning)
 
 [Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Project%20Development%20Phase)
 
-[Final Deliverables]()
+[Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-24691-1659947559/tree/main/Final%20Deliverables)
 
 
 ## Batch - B8-2A4E
