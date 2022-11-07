@@ -1,6 +1,8 @@
 # IBM-Project-24691-1659947559
-<b>Smart Fashion Recommender Application </b>
+
   
+![<b>Smart Fashion Recommender Application </b>](file:///C:/Users/HP/Pictures/IBM/GitHub.png)
+
 <i>Smart Fashion Recommender Application to recommend products based on user preferences.</i>
 
 ## Batch - B8-2A4E
